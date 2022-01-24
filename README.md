@@ -76,15 +76,15 @@
  <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </p>
 <hr>
-<h2 align="center">Github Statistics</h2>
+<!-- <h2 align="center">Github Statistics</h2>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Anshnrag02&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshnrag02&layout=compact&theme=gotham" alt="languages" height="165">
-</p>
+</p> -->
 <p align="center">
  <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
 </p>
 <hr>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwvnlrlxhzaq6tjjmdmwgzk4iy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwvnlrlxhzaq6tjjmdmwgzk4iy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
