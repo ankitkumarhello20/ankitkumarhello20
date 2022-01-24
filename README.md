@@ -1,18 +1,33 @@
 <h1>I'm Ankit kumar <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<p align="left">
-<a href="https://twitter.com/anxhnrag" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ansh-anurag-92678416b/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ansh-anurag-92678416b/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/an.x.h/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/playlist/37i9dQZF1ELXRdnmy2QEll?si=i4tuXYEPQ4S1r1qGGOhwjQ" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111627.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/2121ansh/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111342.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<h4/>I am a machine learning enthusiast from New Delhi. I am on a first name basis whether you call me by my name or surname.<h4/>
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/AnkitKu04278106
+[2]: https://www.facebook.com/profile.php?id=100054749842132
+[3]: https://github.com/ankitkumarhello20
+<h4/>I am a web development enthusiast from New Delhi. <h4/>
 ### Currently
-- <h4>📱I am a Graphic Designer<h4/>
+- <h4>📱I am a Designer<h4/>
 - 🤔 I’m looking to improve on Mathematics behind code and Computation theory.
 - 📚 Beginner at Competitve Programming 
-- 📚 Learning ML
+- 📚 Learning Web d
 - 👷🏽‍♂️Looking for Opportunities
 <h4> ‍ <h4/>
   
