@@ -4,7 +4,7 @@
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-
+[![alt text][4.1]][4]
 
 
 <!-- links to social media icons -->
@@ -15,13 +15,14 @@
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
+[4.1]: https://imgur.com/rwYRqn6 (linkedin icon with padding)
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/AnkitKu04278106
 [2]: https://www.facebook.com/profile.php?id=100054749842132
 [3]: https://github.com/ankitkumarhello20
+[4]: https://www.linkedin.com/in/ankit-kumar-9a65b4189/
 <h4/>I am a web development enthusiast from New Delhi. <h4/>
 ### Currently
 - <h4>📱I am a Designer<h4/>
