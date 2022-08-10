@@ -1,7 +1,7 @@
 ### Hi there , I'm Ankit kumar 👋
 
 ## I'm a Developer , Learner 
-- 🌱 A fast learner when it comes to dev.
+- 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Do great in competitive programming
 - ⚡ Mastering dev is my current goal 
 - 🔭 Eager to learn
@@ -54,6 +54,7 @@
 <p style="padding-top:8px">
  <img style="padding-left: 8px; padding-top: 3px" align="left" alt="Python"  width="26" height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img style="padding-left: 8px; padding-top: 3px padding-bottom: 20px" align="left" alt="Scikit learn"  width="26" height="27" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> 
+  <img style="padding-left: 8px; padding-top: 3px padding-bottom: 20px" align="left" alt="Jupyter"  width="26" height="27" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" /> 
 
 </p><br><br>
 
