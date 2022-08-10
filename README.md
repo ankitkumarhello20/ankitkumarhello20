@@ -1,81 +1,79 @@
-<h1>I'm Ankit kumar <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<!-- display the social media buttons in your README -->
+### Hi there , I'm Ankit kumar 👋
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
+## I'm a Developer , Learner 
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: Do great in competitive programming
+- ⚡ Mastering dev is my current goal 
+- 🔭 Eager to learn
 
+<p>
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[4.1]: https://i.imgur.com/rwYRqn6.png (linkedin icon with padding)
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/AnkitKu04278106
-[2]: https://www.facebook.com/profile.php?id=100054749842132
-[3]: https://github.com/ankitkumarhello20
-[4]: https://www.linkedin.com/in/ankit-kumar-9a65b4189/
-<h4/>I am a web development enthusiast from New Delhi. <h4/>
-### Currently
-- <h4>📱I am a Designer<h4/>
-- 🤔 I’m looking to improve on Mathematics behind code and Computation theory.
-- 📚 Beginner at Competitve Programming 
-- 📚 Learning Web d
-- 👷🏽‍♂️Looking for Opportunities
-<h4> ‍ <h4/>
-  
-<h4/>
-<h4/>
-### 🛠 Languages and Tools
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<hr>
-<h2 align="center">Connect with me</h2>
-<div align="center" >
-  
-<a href="https://github.com/ankitkumarhello20" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="http://www.twitter.com/AnkitKu04278106" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100054749842132" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-<!-- </a>
-<a href="https://www.instagram.com/an.x.h/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> -->
-</a>  
-</div> 
-  <br/>
-  <p align="center">
- <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+### Connect with me:
+[<img style="padding-left: 10px;" align="left" width="26" height="30" alt="AnkitKu04278106 | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AnkitKu04278106)
+[<img style="padding-left: 10px;" align="left" width="26" height="30" alt="ankit-kumar-9a65b4189 | LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ankit-kumar-9a65b4189/)
+[<img style="padding-left: 10px;" align="left"  width="26" height="30" alt="an_k_it_kumar | Instagram"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/an_k_it_kumar/?hl=en)
+<br>
 </p>
-<hr>
-<!-- <h2 align="center">Github Statistics</h2>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Anshnrag02&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshnrag02&layout=compact&theme=gotham" alt="languages" height="165">
-</p> -->
-<p align="center">
- <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
+<p style="padding-top:18px">
+
+## 🛠️ Tried hands on
+<p style="padding-top:8px">
+
+### Programming languages
+<p style="padding-top:10px">
+<img style="padding-left: 10px;" align="left" alt="C"  width="26" height="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />   
+<img style="padding-left: 10px;" align="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="31" height="31"/> 
+ <img style="padding-left: 9px;" align="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
+ </p>
+ </p>
+ </p>
+ 
+ ### Web tools and technologies
+ <p style="padding-top:5px">
+<img style="padding-left: 4px;" align="left" alt="HTML5"  width="26" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img style="padding-left: 2px;" align="left" alt="Css"  width="26" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img style="padding-left: 8px; padding-top: 3px" align="left" alt="JavaScript"  width="26" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img style="padding-left: 4px;" align="left" alt="React js"  width="28" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img  style="padding-left: 8px; padding-top: 3px" align="left" alt="Bootstrap"  width="26" height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+ <img style="padding-left: 8px; padding-top: 3px" align="left" alt="Node js"  width="26" height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /> 
+<img style="padding-left: 8px; padding-top: 3px" align="left" alt="Express js"  width="26" height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+ <img style="padding-left: 8px; padding-top: 3px" align="left" alt="Firebase"  width="26" height="27" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
+
+<img style="padding-left: 8px; padding-top: 3px" align="left" alt="Mongodb"  width="26" height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+
+<img style="padding-left: 8px; padding-top: 3px" align="left" alt="MySql"  width="26" height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
+ 
+ <img style="padding-left: 8px; padding-top: 3px" align="left" alt="Postgresql"  width="26" height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+ 
+ <img style="padding-left: 8px; padding-top: 3px" align="left" alt="Postman"  width="26" height="27" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
+
+</p><br>
+<p style="padding-top:10px">
+
+### Machine Learning
+<p style="padding-top:8px">
+ <img style="padding-left: 8px; padding-top: 3px" align="left" alt="Python"  width="26" height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img style="padding-left: 8px; padding-top: 3px padding-bottom: 20px" align="left" alt="Scikit learn"  width="26" height="27" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> 
+
+</p><br><br>
+
+### Tools:
+<p style="padding-top:10px">
+<img style="padding-left: 8px; padding-top: 3px" align="left" alt="Git"  width="26" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img style="padding-left: 8px; padding-top: 3px" align="left" alt="Github"  width="26" height="27" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img style="padding-left: 8px; padding-top: 3px" align="left" alt="Visual Studio Code"  width="26" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img style="padding-left: 8px; padding-top: 3px" align="left" alt="Terminal"  width="26" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 </p>
-<hr>
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwvnlrlxhzaq6tjjmdmwgzk4iy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 <br />
+<br />
+
+---
+
+<!-- <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Ankit kumar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ankitkumarhello20&show_icons=true&hide_border=true" />
+
+</details> -->
