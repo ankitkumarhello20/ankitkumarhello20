@@ -1,7 +1,7 @@
 ### Hi there , I'm Ankit kumar 👋
 
 ## I'm a Developer , Learner 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 A fast learner when it comes to dev.
 - 🥅 2022 Goals: Do great in competitive programming
 - ⚡ Mastering dev is my current goal 
 - 🔭 Eager to learn
