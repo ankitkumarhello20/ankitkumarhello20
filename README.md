@@ -21,7 +21,7 @@
 
 ### Programming languages
 <p style="padding-top:10px">
-<img style="padding-left: 10px;" align="left" alt="C"  width="26" height="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />   
+<img style="padding-left: 0px;" align="left" alt="C"  width="26" height="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />   
 <img style="padding-left: 0px;" align="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="31" height="31"/> 
  <img style="padding-left: 10px;" align="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
  </p>
