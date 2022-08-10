@@ -2,7 +2,7 @@
 
 ## I'm a Developer , Learner 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Do great in dev and competitive programming
+- 🥅 2022 Goals: Do great in competitive programming
 - ⚡ Mastering dev is my current goal 
 - 🔭 Eager to learn
 
@@ -10,7 +10,7 @@
 
 ### Connect with me:
 [<img style="padding-left: 10px;" align="left" width="26" height="30" alt="AnkitKu04278106 | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AnkitKu04278106)
-[<img style="padding-left: 10px;" align="left" width="26" height="30" alt="ankit-kumar-9a65b4189 | LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ankit-kumar-9a65b4189/)
+[<img style="padding-left: 8px;" align="left" width="26" height="30" alt="ankit-kumar-9a65b4189 | LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ankit-kumar-9a65b4189/)
 [<img style="padding-left: 10px;" align="left"  width="26" height="30" alt="an_k_it_kumar | Instagram"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/an_k_it_kumar/?hl=en)
 <br>
 </p>
@@ -21,9 +21,9 @@
 
 ### Programming languages
 <p style="padding-top:10px">
-<img style="padding-left: 0px;" align="left" alt="C"  width="26" height="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />   
-<img style="padding-left: 0px;" align="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="31" height="31"/> 
- <img style="padding-left: 10px;" align="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
+<img style="padding-left: 10px;" align="left" alt="C"  width="26" height="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />   
+<img style="padding-left: 1px;" align="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  width="31" height="31"/> 
+ <img style="padding-left: 9px;" align="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
  </p>
  </p>
  </p>
