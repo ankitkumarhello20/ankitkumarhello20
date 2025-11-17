@@ -8,9 +8,10 @@
 <p>
 
 ### Connect with me:
-[<img style="padding-left: 10px;" align="left" width="26" height="30" alt="AnkitKu04278106 | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AnkitKu04278106)
+
 [<img style="padding-left: 8px;" align="left" width="26" height="30" alt="ankit-kumar-9a65b4189 | LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ankit-kumar-9a65b4189/)
-[<img style="padding-left: 10px;" align="left"  width="26" height="30" alt="an_k_it_kumar | Instagram"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/an_k_it_kumar/?hl=en)
+
+
 <br>
 </p>
 <p style="padding-top:18px">
